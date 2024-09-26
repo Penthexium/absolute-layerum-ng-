@@ -8,7 +8,7 @@ let tmp = {
   autoRankGot: false,
   autoPrestigeGot: false,
   autoTranscendGot: false,
-  statsPerSecond: E(0.01),
+  statsPerSecond: E(1),
   layerRequired: E(5),
   multiRequirement: E(25),
   autoMultiReq: E(2),
